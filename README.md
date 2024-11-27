@@ -1,6 +1,8 @@
  <h1><strong>🎓 Dashboard Performa Siswa: Analisis Kinerja Belajar Matematika di Sekolah Menengah </strong></h1>
   <p align="center" width="80%">
-    <img width="60%" src="[https://thumb.viva.co.id/media/frontend/thumbs3/2020/12/09/5fd052596fe22-pilkada-2020-tangerang-selatan_1265_711](https://www.halobanyumas.com/wp-content/uploads/2024/09/kriteria-sekolah-menengah-pertama-terbaik-untuk-anak-750x490.webp).jpg">
+   
+<img width="60%" src="https://cdn1-production-images-kly.akamaized.net/jh5diFoj2r-Djr_rcCrAli7T-DA=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5002080/original/075755900_1731386058-sma-adalah.jpg">
+
 </p>
 
 
@@ -18,7 +20,7 @@
 
 ## :bar_chart: Tentang
 
-### 🎯 <p align="justify"><strong>Apa itu Dashboard Performa Siswa?</strong></p>
+### 🎯 Apa itu Dashboard Performa Siswa?
 
 <p align="justify">
 Dashboard ini dirancang untuk memvisualisasikan dan menganalisis faktor-faktor yang memengaruhi kinerja akademik siswa berdasarkan dataset yang berasal dari dua sekolah di Portugal. Dengan menggabungkan berbagai faktor seperti demografi, sosial-ekonomi, dan gaya hidup siswa, dashboard ini bertujuan untuk memberikan wawasan yang mendalam kepada pengajar, siswa, dan pemangku kepentingan lainnya untuk mendukung pengambilan keputusan yang lebih baik.
