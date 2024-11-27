@@ -55,12 +55,58 @@ Dataset ini berisi informasi kinerja akademik dari 395 siswa, mencakup 33 variab
 <p align="justify"><strong>Beberapa variabel penting dalam dataset:</strong></p>
 
 <p align="justify">
-Dataset ini berisi informasi kinerja akademik dari 395 siswa, mencakup 33 variabel, yang meliputi:
-
-- Data demografis (jenis kelamin, usia, lokasi tempat tinggal).
-- Latar belakang keluarga (pendidikan orang tua, pekerjaan).
-- Kondisi sosial-ekonomi (akses internet, dukungan keluarga, dll.).
-- Kebiasaan dan gaya hidup siswa (waktu belajar, aktivitas ekstrakurikuler, konsumsi alkohol, dll.).
-- Nilai akademik siswa dalam tiga tahap ujian: G1 (ujian pertama), G2 (ujian kedua), dan G3 (nilai akhir).
+school: Jenis sekolah (GP: Gabriel Pereira, MS: Mousinho da Silveira).
+sex: Jenis kelamin siswa (F: Perempuan, M: Laki-laki).
+age: Usia siswa.
+studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
+failures: Jumlah kegagalan akademik sebelumnya (0-3).
+G1, G2, G3: Nilai siswa pada ujian pertama, kedua, dan akhir.
+famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik).
+ 
 </p>
 
+<p align="justify"><strong>Tujuan dataset ini adalah:</strong></p>
+
+<p align="justify">
+Menganalisis berbagai faktor yang memengaruhi prestasi akademik siswa.
+Memberikan wawasan untuk meningkatkan metode pengajaran.
+ 
+</p>
+
+## :chart_with_upwards_trend: Visualisasi Data
+
+<p align="justify"><strong>Dashboard ini menyediakan visualisasi interaktif, termasuk: </strong></p>
+
+<p align="justify">
+ 
+- Distribusi nilai siswa: Memahami pola nilai pada G1, G2, dan G3.
+- Hubungan antar variabel: Menganalisis bagaimana faktor-faktor seperti waktu belajar dan kualitas hubungan keluarga memengaruhi nilai akhir.
+- Insight dari data demografis: Melihat pola berdasarkan jenis kelamin, usia, dan lokasi.
+Link ke visualisasi interaktif:
+
+</p>
+
+## :woman_technologist: Pengembang
+
+<p align="justify"><strong> XXX </strong></p>
+
+<p align="justify">
+ 
+Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
+</p>
+
+<p align="justify"><strong> YYY </strong></p>
+
+<p align="justify">
+ 
+Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
+</p>
+
+<p align="justify"><strong> ZZZ </strong></p>
+
+<p align="justify">
+ 
+Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
+</p>
+
+<p align="center"> Dibuat dengan ❤️ oleh Kelompok XYZ </p>
