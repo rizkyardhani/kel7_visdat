@@ -3,15 +3,22 @@
     <img width="60%" src="[https://thumb.viva.co.id/media/frontend/thumbs3/2020/12/09/5fd052596fe22-pilkada-2020-tangerang-selatan_1265_711](https://www.halobanyumas.com/wp-content/uploads/2024/09/kriteria-sekolah-menengah-pertama-terbaik-untuk-anak-750x490.webp).jpg">
 </p>
 
+
 <p align="center">
-📊 Dashboard Data Analisis Kinerja Siswa </p>
-Tentang • Deskripsi Project • Dokumen • Visualisasi Data • PPT • Pengembang
+📊 **Dashboard Interaktif untuk Menganalisis Kinerja Akademik Siswa**  
+</p>
+
+<div align="center">
+
+[Tentang](#bar_chart-tentang) • [Deskripsi Project](#film_projector-deskripsi-project) • [Dataset](#pencil-dataset) • [Visualisasi Data](#chart_with_upwards_trend-visualisasi-data) • [Pengembang](#woman_technologist-pengembang)
 
 </div>
 
+
+
 ## :bar_chart: Tentang
 
-<p align="justify"><strong>Apa itu Dashboard Performa Siswa?</strong></p>
+### 🎯 <p align="justify"><strong>Apa itu Dashboard Performa Siswa?</strong></p>
 
 <p align="justify">
 Dashboard ini dirancang untuk memvisualisasikan dan menganalisis faktor-faktor yang memengaruhi kinerja akademik siswa berdasarkan dataset yang berasal dari dua sekolah di Portugal. Dengan menggabungkan berbagai faktor seperti demografi, sosial-ekonomi, dan gaya hidup siswa, dashboard ini bertujuan untuk memberikan wawasan yang mendalam kepada pengajar, siswa, dan pemangku kepentingan lainnya untuk mendukung pengambilan keputusan yang lebih baik.
@@ -28,41 +35,51 @@ Dashboard ini dirancang untuk memvisualisasikan dan menganalisis faktor-faktor y
 
 </p>
 
-## :film_projector: Deskripsi Project
+## :film_projector: **Deskripsi Project**
 
 <p align="center"> <img width="80%" src="https://i.imgur.com/nq5yDaY.png"> </p>
 
-<p align="justify">
-Dashboard ini dibangun menggunakan teknologi modern seperti R Shiny dan pustaka analisis data lainnya. Analisis dilakukan berdasarkan dataset kinerja siswa yang mencakup berbagai informasi seperti data demografis, latar belakang keluarga, kondisi sosial ekonomi, dan lainnya.
+<p align="center">
+  <img width="80%" src="https://i.imgur.com/nq5yDaY.png">
 </p>
 
-## :pencil: Dataset
+**Dashboard ini dibangun dengan:**
+- 📈 **R Shiny** untuk visualisasi data interaktif.
+- 📊 **Python** untuk analisis data.
+- 🔍 Fokus utama pada pemahaman faktor-faktor yang berkontribusi pada performa siswa.
+
+### 🚀 Tujuan Utama:
+1. **Memahami pola belajar siswa** berdasarkan waktu belajar, dukungan keluarga, dan kebiasaan.
+2. **Mengidentifikasi variabel penting** seperti pendidikan orang tua, lokasi tempat tinggal, atau waktu belajar terhadap hasil akademik.
+3. **Membantu pengembangan strategi pembelajaran** yang lebih personal dan efektif.
+
+
+## :pencil: **Dataset**
 
 <p align="center"> <img width="80%" src="https://i.imgur.com/nq5yDaY.png"> </p>
 
-<p align="justify"><strong>Deskripsi Awal Dataset</strong></p>
+### 📋 <p align="justify"><strong>Deskripsi Awal Dataset</strong></p>
 
 <p align="justify">
-Dataset ini berisi informasi kinerja akademik dari 395 siswa, mencakup 33 variabel, yang meliputi:
+Dataset ini mencakup **395 siswa dan 33 variabel**, dengan data meliputi:
+- **Data Demografis**: Jenis kelamin, usia, lokasi tempat tinggal.
+- **Latar Belakang Keluarga**: Pendidikan orang tua, pekerjaan, ukuran keluarga.
+- **Kondisi Sosial-Ekonomi**: Dukungan keluarga, akses internet, dll.
+- **Kebiasaan dan Gaya Hidup**: Waktu belajar, aktivitas ekstrakurikuler, konsumsi alkohol, dll.
+- **Nilai Akademik**: Nilai G1 (ujian pertama), G2 (ujian kedua), dan G3 (nilai akhir).
 
-- Data demografis (jenis kelamin, usia, lokasi tempat tinggal).
-- Latar belakang keluarga (pendidikan orang tua, pekerjaan).
-- Kondisi sosial-ekonomi (akses internet, dukungan keluarga, dll.).
-- Kebiasaan dan gaya hidup siswa (waktu belajar, aktivitas ekstrakurikuler, konsumsi alkohol, dll.).
-- Nilai akademik siswa dalam tiga tahap ujian: G1 (ujian pertama), G2 (ujian kedua), dan G3 (nilai akhir).
 </p>
 
-<p align="justify"><strong>Beberapa variabel penting dalam dataset:</strong></p>
+### 🔍 <p align="justify"><strong>Beberapa variabel penting dalam dataset:</strong></p>
 
 <p align="justify">
-school: Jenis sekolah (GP: Gabriel Pereira, MS: Mousinho da Silveira).
-sex: Jenis kelamin siswa (F: Perempuan, M: Laki-laki).
-age: Usia siswa.
-studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
-failures: Jumlah kegagalan akademik sebelumnya (0-3).
-G1, G2, G3: Nilai siswa pada ujian pertama, kedua, dan akhir.
-famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik).
- 
+-  school: Jenis sekolah (GP: Gabriel Pereira, MS: Mousinho da Silveira).
+-  sex: Jenis kelamin siswa (F: Perempuan, M: Laki-laki).
+-  studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
+-  failures: Jumlah kegagalan akademik sebelumnya (0-3)
+-  famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik)
+-  G1, G2, G3: Nilai siswa pada ujian pertama, kedua, dan akhir.
+
 </p>
 
 <p align="justify"><strong>Tujuan dataset ini adalah:</strong></p>
@@ -75,38 +92,29 @@ Memberikan wawasan untuk meningkatkan metode pengajaran.
 
 ## :chart_with_upwards_trend: Visualisasi Data
 
-<p align="justify"><strong>Dashboard ini menyediakan visualisasi interaktif, termasuk: </strong></p>
+<p align="justify"><strong>Dashboard ini menyediakan visualisasi interaktif , termasuk: </strong></p>
 
 <p align="justify">
  
-- Distribusi nilai siswa: Memahami pola nilai pada G1, G2, dan G3.
-- Hubungan antar variabel: Menganalisis bagaimana faktor-faktor seperti waktu belajar dan kualitas hubungan keluarga memengaruhi nilai akhir.
-- Insight dari data demografis: Melihat pola berdasarkan jenis kelamin, usia, dan lokasi.
-Link ke visualisasi interaktif:
+- 📊 **Distribusi Nilai Akademik**: Mengetahui pola nilai G1, G2, dan G3.
+- 🧩 **Hubungan Antar Variabel**: Dampak waktu belajar, hubungan keluarga, dan akses internet terhadap nilai siswa.
+- 🔍 **Insight Demografis**: Tren performa berdasarkan jenis kelamin, usia, dan lokasi tempat tinggal.
 
+🎯 **Temukan wawasan interaktif melalui dashboard ini!**
 </p>
 
-## :woman_technologist: Pengembang
+## :woman_technologist: **Pengembang**
 
-<p align="justify"><strong> XXX </strong></p>
+💡 **Kelompok XYZ** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
 
-<p align="justify">
- 
-Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
-</p>
+- **👩‍💻 [Nama Pengembang 1](https://github.com/nama1)**  
+  Menguasai R Shiny dan Python dengan pengalaman di bidang data pendidikan.
 
-<p align="justify"><strong> YYY </strong></p>
+- **👨‍💻 [Nama Pengembang 2](https://github.com/nama2)**  
+  Ahli dalam analisis data dan pemodelan statistik dengan fokus pada big data.
 
-<p align="justify">
- 
-Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
-</p>
+- **👩‍💻 [Nama Pengembang 3](https://github.com/nama3)**  
+  Terampil dalam membangun dashboard interaktif dan memberikan wawasan berbasis data.
 
-<p align="justify"><strong> ZZZ </strong></p>
-
-<p align="justify">
- 
-Mahasiswa/Pengembang data yang berfokus pada analisis data pendidikan untuk menciptakan solusi berbasis wawasan yang mendukung pengambilan keputusan yang lebih baik.
-</p>
 
 <p align="center"> Dibuat dengan ❤️ oleh Kelompok XYZ </p>
