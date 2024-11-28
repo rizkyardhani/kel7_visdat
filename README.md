@@ -80,7 +80,7 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 
 
 
-### 🔍 **Beberapa Variabel Penting dalam Dataset**
+### 🔍 **Variabel dalam Dataset**
 
 - school: Jenis sekolah (GP: Gabriel Pereira, MS: Mousinho da Silveira).
 - sex: Jenis kelamin siswa (F: Perempuan, M: Laki-laki).
