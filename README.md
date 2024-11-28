@@ -53,9 +53,9 @@ Dashboard ini dirancang untuk menjadi alat bantu dalam memahami data kinerja sis
 - 🔍 Fokus utama pada pemahaman faktor-faktor yang berkontribusi pada performa siswa.
 
 ### 🚀 Tujuan Utama:
-1. **Memahami pola belajar siswa** berdasarkan waktu belajar, dukungan keluarga, dan kebiasaan.
-2. **Mengidentifikasi variabel penting** seperti pendidikan orang tua, lokasi tempat tinggal, atau waktu belajar terhadap hasil akademik.
-3. **Membantu pengembangan strategi pembelajaran** yang lebih personal dan efektif.
+1. **Eksplorasi dan visualisasi data** untuk memahami pola dan distribusi performa siswa berdasarkan berbagai variabel, seperti waktu belajar, dukungan keluarga, dan kebiasaan.
+2. **Melakukan klaster analisis** untuk mengelompokkan siswa dengan karakteristik yang serupa, sehingga dapat mengidentifikasi pola tersembunyi dalam data.
+3. **Membantu dalam pembuatan strategi pembelajaran yang lebih personal dan efektif** berdasarkan hasil klaster analisis, untuk meningkatkan performa siswa.
 
 ---
 ## :pencil: **Dataset**
