@@ -1,4 +1,4 @@
- <h1><strong>🎓 Dashboard Performa Siswa: Analisis Kinerja Belajar Matematika di Sekolah Menengah </strong></h1>
+ <h1><strong>🎓 DASPRIMA : Dashboard Performa Siswa Matematika </strong></h1>
   <p align="center" width="80%">
    
 <img width="60%" src="https://cdn1-production-images-kly.akamaized.net/jh5diFoj2r-Djr_rcCrAli7T-DA=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5002080/original/075755900_1731386058-sma-adalah.jpg">
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-📊 **Dashboard Interaktif untuk Menganalisis Kinerja Akademik Siswa**  
+📊 **Dashboard Interaktif untuk Mengevaluasi Performa Siswa Matematika **  
 </p>
 
 <div align="center">
