@@ -23,7 +23,7 @@
 ### 🎯 Apa itu Dashboard Performa Siswa?
 
 <p align="justify">
-Dashboard ini dirancang untuk memvisualisasikan dan menganalisis faktor-faktor yang memengaruhi kinerja akademik siswa berdasarkan dataset yang berasal dari dua sekolah di Portugal. Dengan menggabungkan berbagai faktor seperti demografi, sosial-ekonomi, dan gaya hidup siswa, dashboard ini bertujuan untuk memberikan wawasan yang mendalam kepada pengajar, siswa, dan pemangku kepentingan lainnya untuk mendukung pengambilan keputusan yang lebih baik.
+Dashboard ini dirancang untuk menjadi alat bantu dalam memahami data kinerja siswa secara menyeluruh. Dengan fitur eksplorasi data seperti bar plot, analisis korelasi, dan tabel kontingensi, pengguna dapat menggali informasi penting. Fitur clustering memberikan perspektif tambahan untuk mengidentifikasi kelompok siswa dengan karakteristik performa serupa, memungkinkan intervensi yang lebih terarah.
 </p>
 
 <p align="justify"><strong>Mengapa penting untuk menganalisis kinerja siswa?</strong></p>
@@ -71,7 +71,7 @@ Dataset ini mencakup **395 siswa dan 33 variabel**, dengan data meliputi:
 - **Latar Belakang Keluarga**: Pendidikan orang tua, pekerjaan, ukuran keluarga.
 - **Kondisi Sosial-Ekonomi**: Dukungan keluarga, akses internet, dll.
 - **Kebiasaan dan Gaya Hidup**: Waktu belajar, aktivitas ekstrakurikuler, konsumsi alkohol, dll.
-- **Nilai Akademik**: Nilai G1 (ujian pertama), G2 (ujian kedua), dan G3 (nilai akhir).
+- **Nilai Akademik**: Nilai G1 (ujian pertama), G2 (ujian kedua), dan G3 (ujian ketiga).
 
 📂 **Sumber Dataset**:  
 Dataset ini diambil dari Kaggle, tersedia di tautan berikut:  
@@ -83,6 +83,14 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 
 - school: Jenis sekolah (GP: Gabriel Pereira, MS: Mousinho da Silveira).
 - sex: Jenis kelamin siswa (F: Perempuan, M: Laki-laki).
+- age: Usia siswa (dalam tahun)
+- Address: Lokasi tempat tinggal siswa (U : Urban, R: Rural)
+- Famsize: Ukuran keluarga siswa (LE3: ≤3 anggota keluarga, GT3: >3 anggota keluarga)
+- Pstatus: Status hubungan orang tua siswa (T: Tinggal bersama, A: Terpisah)
+- Medu: Tingkat pendidikan ibu (0-4) (0: Tidak sekolah,1: Sekolah dasar, 2: Sekolah menengah pertama, 3: Sekolah menengah atas, 4: Pendidikan tinggi)
+- Fedu: Tingkat pendidikan ayah (0-4) (0: Tidak sekolah,1: Sekolah dasar, 2: Sekolah menengah pertama, 3: Sekolah menengah atas, 4: Pendidikan tinggi)
+- Mjob: Pekerjaan ibu siswa (at_home: Ibu rumah tangga, health: Bidang kesehatan, services: Layanan publik,  teacher: Guru, other: Lainnya )
+
 - studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
 - failures: Jumlah kegagalan akademik sebelumnya (0-3).
 - famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik).
@@ -94,6 +102,7 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 Dataset ini bertujuan untuk:
 1. Menganalisis berbagai faktor yang memengaruhi prestasi akademik siswa.
 2. Memberikan wawasan untuk meningkatkan metode pengajaran.
+3. Memberikan wawasan ter
 
 ---
 
