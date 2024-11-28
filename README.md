@@ -112,8 +112,8 @@ Dataset ini bertujuan untuk:
 **Dashboard ini menyediakan visualisasi interaktif, termasuk:**
 
 - 📊 **Distribusi Nilai Akademik**: Mengetahui pola nilai G1, G2, dan G3.
-- 🧩 **Hubungan Antar Variabel**: Dampak waktu belajar, hubungan keluarga, dan akses internet terhadap nilai siswa.
-- 🔍 **Insight Demografis**: Tren performa berdasarkan jenis kelamin, usia, dan lokasi tempat tinggal.
+- 🧩 **Hubungan Antar Variabel**: Menganalisis dampak seluruh variabel kategorik, seperti jenis kelamin, lokasi tempat tinggal, pekerjaan orang tua, dukungan keluarga, dan lainnya, terhadap nilai siswa untuk mengidentifikasi pola dan hubungan yang mempengaruhi kinerja akademik.
+- 🔍 **Insight**: Menganalisis tren performa siswa berdasarkan seluruh variabel kategorik untuk mengidentifikasi pola dan kelompok siswa yang dapat digunakan dalam pengembangan strategi pembelajaran.
 - 📈 **Cluster Analysis (Analisis Kluster)**: 
   - Mengelompokkan siswa ke dalam beberapa kategori berdasarkan variabel seperti waktu belajar, hubungan keluarga, dan hasil akademik.
   - Memanfaatkan algoritma **K-Means** untuk mengidentifikasi pola tersembunyi dalam data siswa.
