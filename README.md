@@ -91,7 +91,9 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 - Medu: Tingkat pendidikan ibu (0-4) (0: Tidak sekolah,1: Sekolah dasar, 2: Sekolah menengah pertama, 3: Sekolah menengah atas, 4: Pendidikan tinggi)
 - Fedu: Tingkat pendidikan ayah (0-4) (0: Tidak sekolah,1: Sekolah dasar, 2: Sekolah menengah pertama, 3: Sekolah menengah atas, 4: Pendidikan tinggi)
 - Mjob: Pekerjaan ibu siswa (at_home: Ibu rumah tangga, health: Bidang kesehatan, services: Layanan publik,  teacher: Guru, other: Lainnya )
-
+- Fjob: Pekerjaan ayah siswa (at_home: Bekerja dari rumah, health: Bidang kesehatan, services: Layanan publik, teacher: Guru, other: Lainnya)
+- Reason: Alasan memilih sekolah (home: Dekat dengan rumah, reputation: Reputasi baik, course: Kualitas program studi, other: Alasan lain)
+- Guardian: Wali utama siswa.
 - studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
 - failures: Jumlah kegagalan akademik sebelumnya (0-3).
 - famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik).
