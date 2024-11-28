@@ -7,8 +7,9 @@
 
 
 <p align="center">
-# 📊 Dashboard Interaktif untuk Mengevaluasi Performa Siswa Matematika   
+  📊 <strong>Dashboard Interaktif untuk Mengevaluasi Performa Siswa Matematika</strong>
 </p>
+
 
 <div align="center">
 
