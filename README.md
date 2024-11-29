@@ -130,10 +130,10 @@ Dataset ini bertujuan untuk:
 
 💡 **Kelompok 7** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
 
-- **👩‍💻 [Rizky Ardhani](https://github.com/rizkyardhani)**  
+- **👨‍💻 [Rizky Ardhani](https://github.com/rizkyardhani)**  
   Menguasai R Shiny dan Python dengan pengalaman di bidang data pendidikan.
 
-- **👨‍💻 [Uswatun Hasanah](https://github.com/hhyuss)**  
+- **👩‍💻 [Uswatun Hasanah](https://github.com/hhyuss)**  
   Ahli dalam analisis data dan pemodelan statistik dengan fokus pada big data.
 
 - **👩‍💻 [Rifda Nida'ul Labibah](https://github.com/rifdanid)**  
