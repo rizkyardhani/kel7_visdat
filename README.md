@@ -128,7 +128,7 @@ Dataset ini bertujuan untuk:
 
 ## :woman_technologist: **Pengembang**
 
-💡 **Kelompok XYZ** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
+💡 **Kelompok 7** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
 
 - **👩‍💻 [Rizky Ardhani](https://github.com/rizkyardhani)**  
   Menguasai R Shiny dan Python dengan pengalaman di bidang data pendidikan.
