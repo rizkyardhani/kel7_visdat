@@ -130,13 +130,13 @@ Dataset ini bertujuan untuk:
 
 💡 **Kelompok XYZ** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
 
-- **👩‍💻 [Nama Pengembang 1](https://github.com/nama1)**  
+- **👩‍💻 [Rizky Ardhani](https://github.com/rizkyardhani)**  
   Menguasai R Shiny dan Python dengan pengalaman di bidang data pendidikan.
 
-- **👨‍💻 [Nama Pengembang 2](https://github.com/nama2)**  
+- **👨‍💻 [Uswatun Hasanah](https://github.com/hhyuss)**  
   Ahli dalam analisis data dan pemodelan statistik dengan fokus pada big data.
 
-- **👩‍💻 [Nama Pengembang 3](https://github.com/nama3)**  
+- **👩‍💻 [Rifda Nida'ul Labibah](https://github.com/rifdanid)**  
   Terampil dalam membangun dashboard interaktif dan memberikan wawasan berbasis data.
 
 
