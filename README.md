@@ -1,7 +1,7 @@
  <h1><strong>🎓 DASPRIMA : Dashboard Performa Siswa Matematika </strong></h1>
   <p align="center" width="80%">
    
-<img width="60%" src="https://cdn1-production-images-kly.akamaized.net/jh5diFoj2r-Djr_rcCrAli7T-DA=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5002080/original/075755900_1731386058-sma-adalah.jpg">
+![belajar 4](https://github.com/user-attachments/assets/27c438da-2d0f-49b1-9c54-8d0eb29a9aef)
 
 </p>
 
@@ -128,16 +128,13 @@ Dataset ini bertujuan untuk:
 
 ## :woman_technologist: **Pengembang**
 
-💡 **Kelompok 7** terdiri dari mahasiswa dengan keahlian dalam analisis data pendidikan, visualisasi data, dan pengembangan aplikasi berbasis data:
+💡 **Kelompok 7** terdiri dari:
 
 - **👨‍💻 [Rizky Ardhani](https://github.com/rizkyardhani)**  
-  Menguasai R Shiny dan Python dengan pengalaman di bidang data pendidikan.
 
 - **👩‍💻 [Uswatun Hasanah](https://github.com/hhyuss)**  
-  Ahli dalam analisis data dan pemodelan statistik dengan fokus pada big data.
 
 - **👩‍💻 [Rifda Nida'ul Labibah](https://github.com/rifdanid)**  
-  Terampil dalam membangun dashboard interaktif dan memberikan wawasan berbasis data.
 
 
 <p align="center"> Dibuat dengan ❤️ oleh Kelompok 7 </p>
