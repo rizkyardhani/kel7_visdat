@@ -1,9 +1,8 @@
- <h1><strong>🎓 DASPRIMA : Dashboard Performa Siswa Matematika </strong></h1>
-  <p align="center" width="80%">
-   
-![belajar 4](https://github.com/user-attachments/assets/27c438da-2d0f-49b1-9c54-8d0eb29a9aef)
-
+<h1><strong>🎓 DASPRIMA: Dashboard Performa Siswa Matematika</strong></h1>
+<p align="center" width="80%">
+  <img src="https://github.com/user-attachments/assets/27c438da-2d0f-49b1-9c54-8d0eb29a9aef" alt="Belajar 4" width="400">
 </p>
+
 
 
 <p align="center">
@@ -93,10 +92,25 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 - Mjob: Pekerjaan ibu siswa (at_home: Ibu rumah tangga, health: Bidang kesehatan, services: Layanan publik,  teacher: Guru, other: Lainnya )
 - Fjob: Pekerjaan ayah siswa (at_home: Bekerja dari rumah, health: Bidang kesehatan, services: Layanan publik, teacher: Guru, other: Lainnya)
 - Reason: Alasan memilih sekolah (home: Dekat dengan rumah, reputation: Reputasi baik, course: Kualitas program studi, other: Alasan lain)
-- Guardian: Wali utama siswa.
-- studytime: Waktu belajar mingguan siswa (1-4, dari "<2 jam" hingga ">10 jam").
-- failures: Jumlah kegagalan akademik sebelumnya (0-3).
-- famrel: Kualitas hubungan keluarga (1: Sangat buruk, 5: Sangat baik).
+- Guardian: Wali utama siswa (mother: Ibu,father: Ayah, other: Lainnya)
+- Traveltime: Waktu perjalanan ke sekolah (1: <15 menit, 2: 15-30 menit, 3: 30-60 menit, 4: >60 menit)
+- studytime: Waktu belajar mingguan siswa (1: <2 jam, 2:2-5 jam, 3: 5-10 jam, 4: >10 jam).
+- failures: Tingkat kegagalan akademik sebelumnya (0: Tidak ada, 1: Satu kegagalan, 2: Dua kegagalan, 3: Tiga kegagalan atau lebih).
+- Schoolsup: Dukungan tambahan dari sekolah (yes: Ada, no: Tidak ada)
+- Famsup: Dukungan tambahan dari keluarga  (yes: Ada, no: Tidak ada)
+- Paid: Kursus privat berbayar (yes: Ada, no: Tidak ada)
+- Activities: Kegiatan ekstrakurikuler (yes: Ada, no: Tidak ada)
+- Nursery: Pernah mengikuti pendidikan prasekolah  (yes: Ada, no: Tidak ada)
+- Higher: Ingin melanjutkan pendidikan tinggi (yes: Ada, no: Tidak ada)
+- Internet: Akses internet di rumah (yes: Ada, no: Tidak ada)
+- Romantic: Hubungan romantis saat ini (yes: Ada, no: Tidak ada)
+- Famrel: Kualitas hubungan keluarga (1: Sangat Buruk, 2: Buruk, 3: Cukup, 4: Baik, 5: Sangat Baik)
+- Freetime: Waktu luang setelah sekolah (1: Sangat Sedikit, 2: Sedikit, 3: Cukup, 4: Banyak, 5: Sangat Banyak)
+- Goout: Frekuensi keluar bersama teman (1: Sangat Jarang, 2: Jarang, 3: Cukup, 4: Sering, 5: Sangat Sering)
+- Dalc: Konsumsi alkohol harian (1: Sangat Sedikit, 2: Sedikit, 3: Cukup, 4: Banyak, 5: Sangat Banyak)
+- Walc: Konsumsi alkohol pekan (1: Sangat Sedikit, 2: Sedikit, 3: Cukup, 4: Banyak, 5: Sangat Banyak)
+- Health: Status kesehatan siswa (1: Sangat Buruk, 2: Buruk, 3: Cukup, 4: Baik, 5: Sangat Baik)
+- Absences: Jumlah hari ketidakhadiran siswa.
 - G1, G2, G3: Nilai siswa pada ujian pertama, kedua, dan akhir.
 
 
@@ -105,7 +119,6 @@ Dataset ini diambil dari Kaggle, tersedia di tautan berikut:
 Dataset ini bertujuan untuk:
 1. Menganalisis berbagai faktor yang memengaruhi prestasi akademik siswa.
 2. Memberikan wawasan untuk meningkatkan metode pengajaran.
-3. Memberikan wawasan ter
 
 ---
 
